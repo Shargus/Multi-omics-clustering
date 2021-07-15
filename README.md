@@ -29,7 +29,7 @@ This is a comprehensive user manual for the codes we produced for our project.
 ## Other info
 All the manifest & JSON files, datasets, saved trained autoencoders, the files returned by "Find protein coding genes.ipynb" and "Find common meth probes illumina 27k 450k.ipynb", and "utils.py" are stored in our Google Drive project folder, and are automatically retrieved inside the notebooks with the use of `gdown` and `wget` console commands.
 
-**The coding and testing environment has been Google Colab**, so the libraries used and their versions are the ones pre-installed in Colab. For reference, we report the complete list of these libraries (along with their versions) here:
+**The coding and testing environment has been Google Colab**, so the libraries used and their versions are the ones pre-installed in Colab or the ones one can get with `pip install <package>`. For reference, we report the complete list of these libraries (along with their versions) here:
 
 - `gdown == 3.6.4`
 - `pandas == 1.1.5`
