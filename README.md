@@ -4,7 +4,7 @@ Project 14, Bioinformatics course, Politecnico di Torino
 This is a comprehensive user manual for the codes we produced for our project.
 
 ## DATASETS RETRIEVAL
-(n.b.: the synthetic 500 samples dataset has been downloaded from the Portale della didattica)
+(n.b.: the synthetic 500-samples dataset has been downloaded from the Portale della didattica)
 
 - **Dataset retrieval (lung).ipynb**: retrieve the Lung tumors samples dataset described in the report; correct the batch effect for the gene CNV omic
 - **Dataset retrieval (kidney).ipynb**: retrieve the Kidney tumors samples dataset described in the report
