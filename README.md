@@ -1,5 +1,5 @@
 # Multi-omics clustering
-Project 14, Bioinformatics course, Politecnico di Torino.
+Final project for the Bioinformatics exam, Politecnico di Torino.
 
 A new methodology for performing multi-omics integration is proposed, based on an autoencoder trained with a custom loss term. Up to +5% improvement on the Adjusted Rand Index and Adjusted Mutual Information metrics with respect to the baseline (early integration method).
 
